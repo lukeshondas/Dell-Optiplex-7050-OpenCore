@@ -34,6 +34,6 @@ Also only been tested on the SFF Varient of the 7050 but I imagine it should wor
 
 ## Usage
 
-You will need to follow my guide [HERE](https://github.com/lukeshondas/Dell-Optiplex-7050-OpenCore/blob/main/Bios%20Guide) This EFI will NOT work at all unless you do so.
+You will need to follow my guide [HERE](https://github.com/lukeshondas/Dell-Optiplex-7050-OpenCore/blob/main/Bios%20Guide.md) This EFI will NOT work at all unless you do so.
 
 Download my EFI, Change your Serial with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) and install.
