@@ -10,7 +10,7 @@ Also only been tested on the SFF Varient of the 7050 but I imagine it should wor
 | ---------------- | -------------------------------------------------------------------------------------------------------------- |
 | CPU              | Intel® Core™ i7-7700 Processor                                                                                 |
 | iGPU             | Intel® HD 630                                                                                                  |
-| Memory           | 32Gb (2 x 16Gb 2400MHz) (should work fine with 8gb+)                                                           |
+| Memory           | 32Gb (2 x 16Gb) (should work fine with 8gb+)                                                                   |
 | Storage          | SSD 256gb NVMe (should work fine with SATA SSD's too)                                                          |
 | Wifi & Bluetooth | None for now, May install a wifi card later.                                                                   |
 | LAN              | Intel® Gigabit Ethernet, 10/100/1000                                                                           |
